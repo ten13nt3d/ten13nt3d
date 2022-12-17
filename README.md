@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d9o8m7
-- 👀 I’m interested in data science & pen testing
+- 👀 I’m interested in data science & bug bounty
 - 🌱 I’m currently learning hashgraph
 - 💞️ I’m looking to collaborate on making the world a better place
 - 📫 How to reach me ...
