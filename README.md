@@ -30,4 +30,5 @@ Thanks 4 visiting my profile!
 
 ![DMRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=d9o8m7&show_icons=true&theme=gruvbox)
 
+<img src="https://github-readme-stats.vercel.app/api/top-lang/?username=d9o8m7&layout=compact" />
 #
