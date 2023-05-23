@@ -25,3 +25,9 @@ Thanks 4 visiting my profile!
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 
 <br />
+
+### 📊 Stats
+
+![DMRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=d9o8m7&show_icons=true&theme=gruvbox)
+
+#
