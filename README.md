@@ -26,8 +26,6 @@ Thanks 4 visiting my profile!
 
 <br />
 
----
-
 ### 📊 Stats
 
 ![DMRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=d9o8m7&show_icons=true&theme=gruvbox)
