@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Dev/Film/Maker)`**
 
-Hi there, I'm Dan aka. damaker an independent developer, researcher and content creator. Now I'm currently at 42 Barcelona as student. I build projects from scratch, solving real-life problems with code & art. I share my work on my Odysee chanel.
+Hi there, I'm Dan aka. damaker an independent developer, researcher and content creator. Now I'm currently at [42 Barcelona](https://www.42barcelona.com/es/) as student. I build projects from scratch, solving real-life problems with code & art. I share my work on my Odysee chanel.
 
 Thanks 4 visiting my profile!
 
@@ -26,10 +26,10 @@ Thanks 4 visiting my profile!
 
 <br />
 
----
 
 ### 📊 Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caballosanex&layout=compact&theme=dark&hide_border=true)
 ![DMRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=d9o8m7&show_icons=true&theme=gruvbox)
 
 #
