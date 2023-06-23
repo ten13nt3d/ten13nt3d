@@ -24,8 +24,7 @@ Thanks 4 visiting my profile!
 <img align="left" alt="Npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 
-<br />
-
+---
 
 ### 📊 Stats
 
