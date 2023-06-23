@@ -23,6 +23,7 @@ Thanks 4 visiting my profile!
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+#
 
 ---
 
@@ -30,5 +31,4 @@ Thanks 4 visiting my profile!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caballosanex&layout=compact&theme=dark&hide_border=true)
 ![DMRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=d9o8m7&show_icons=true&theme=gruvbox)
-
 #
