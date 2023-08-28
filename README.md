@@ -29,6 +29,6 @@ Thanks 4 visiting my profile!
 
 ### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caballosanex&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d9o8m7&layout=compact&theme=dark&hide_border=true)
 ![DMRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=d9o8m7&show_icons=true&theme=gruvbox)
 #
