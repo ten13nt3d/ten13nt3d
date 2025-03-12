@@ -46,8 +46,8 @@ Driven by precision, automation, and deep research.
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d9o8m7&layout=compact&theme=dark&hide_border=true)
-![DMRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=d9o8m7&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ten13nt3d&layout=compact&theme=dark&hide_border=true)
+![DMRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ten13nt3d&show_icons=true&theme=gruvbox)
 
 ---
 
