@@ -66,7 +66,7 @@ Driven by precision, automation, and deep research.
 
 - 📡 **Website**: coming soon  
 - 🕳️ **HackerOne**: t3n13n73d  
-- 🌐 **Twitter / X**: [@da1maker]  
+- 🌐 **Twitter / X**: [@]  
 - 🎯 Always open to **collaboration**, **hiring**, and **freelance work** in **Security**, **Blockchain**, or **Trading Automation**
 
 ---
