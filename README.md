@@ -28,11 +28,11 @@ Driven by precision, automation, and deep research.
 - 🤖 Trading Strategy Dev | *Algo Bots & Market Automation*
 - 🛰️ Research & Recon | *CVE notes, OSINT, Subdomain/Exploit chaining*
 
-## ✅ 2025 Goals
+## ✅ 2025-2026 Goals
 
-- [ ] Cisco CyberOps Associate + CCST Cyber
+- [ ] CCST Cybersecurity
 - [ ] Cyphin Updraft SSCD+
-- [ ] Solidity Dev Portfolio (StackUp, Cyphrin and more)
+- [ ] Solidity Dev Portfolio (Cyphrin, CryptoZombies and more)
 - [ ] Consistent Bug Bounty Pipeline
 - [ ] Advanced Trading Bot Frameworks
 
@@ -46,12 +46,12 @@ Driven by precision, automation, and deep research.
 
 ## 📊 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ten13nt3d&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ten13nt3d&layout=compact&theme=dark&hide_border=true)
-![DMRK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ten13nt3d&show_icons=true&theme=gruvbox)
 
 ---
 
-## 🏷️ Badges (2025 Goals & Certs)
+## 🏷️ Badges (2025-2026 Goals & Certs)
 
 <a href="https://www.credly.com/badges/755e29ae-bcbe-4a98-9027-50980c109cab" target="_blank">
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Intro to Cybersecurity">
