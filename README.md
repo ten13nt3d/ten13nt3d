@@ -46,7 +46,7 @@ Driven by precision, automation, and deep research.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ten13nt3d&theme=dark)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ten13nt3d?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ten13nt3d&layout=compact&theme=dark&hide_border=true)
 
 ---
