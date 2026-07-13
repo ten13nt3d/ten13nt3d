@@ -54,16 +54,20 @@ Currently navigating the intersection of **offensive security**, **blockchain de
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ten13nt3d&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ten13nt3d&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ten13nt3d&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ten13nt3d&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ten13nt3d&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ten13nt3d&theme=darkhub&no-frame=true&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ten13nt3d&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ten13nt3d&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
