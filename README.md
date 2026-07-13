@@ -63,11 +63,11 @@ Currently navigating the intersection of **offensive security**, **blockchain de
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ten13nt3d&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ten13nt3d&theme=github-compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ten13nt3d&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ten13nt3d.ten13nt3d" />
 </p>
 
 ---
