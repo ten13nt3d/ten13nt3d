@@ -54,8 +54,8 @@ Currently navigating the intersection of **offensive security**, **blockchain de
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ten13nt3d&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ten13nt3d&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ten13nt3d&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ten13nt3d&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
